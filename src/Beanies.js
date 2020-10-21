@@ -26,7 +26,7 @@ function Beanies() {
             <Card.Body>
               <Card.Title><b>ITEM H1</b></Card.Title>
               <Card.Text>
-                Keep your face and brain warm with this smart look. 
+                Keep your face and brain warm with this smart look
               </Card.Text>
               
               
