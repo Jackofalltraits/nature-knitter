@@ -1,9 +1,8 @@
 import React from "react";
 import "./App.css";
-import { Button, Col, Row, Form, FormGroup } from "react-bootstrap";
+import { Button, Col, Row, Form } from "react-bootstrap";
 import {} from "react-router-dom";
 import Navigation from "./Navigation";
-import Backdrop1 from "./Assets/backdrop1.jpg";
 
 
 

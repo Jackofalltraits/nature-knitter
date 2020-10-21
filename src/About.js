@@ -16,9 +16,9 @@ function About() {
     <h3>Nature Knitter wants to supply you with all your knit and craft needs. Every product we sell is made from hand! We have everyting from scarfs to blankets to beanies to even jewelry! </h3>       
     </div>
     <Row>
-      <img src={Coaster5} style={{ width: "26rem", height: "25rem", paddingLeft: "10%"  }}/>
-      <img src={Scarf1} style={{ width: "26rem", height: "25rem", paddingLeft: "10%" }} />
-      <img src={Blanket4} style={{ width: "26rem", height: "26rem", paddingLeft: "10%"}}/>
+      <img src={Coaster5} style={{ width: "26rem", height: "25rem", paddingLeft: "10%"  }} alt=""/>
+      <img src={Scarf1} style={{ width: "26rem", height: "25rem", paddingLeft: "10%" }} alt=""/>
+      <img src={Blanket4} style={{ width: "26rem", height: "26rem", paddingLeft: "10%"}} alt=""/>
 
     </Row>
     </div>
