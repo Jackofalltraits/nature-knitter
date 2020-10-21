@@ -1,0 +1,243 @@
+.App {
+  text-align: center;
+}
+
+.aboutbutt{
+  
+  padding-left: 3rem;
+  padding-right: 2rem;
+}
+
+.abouttext{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.beeds{
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.caro{
+  padding-top: 1rem;
+}
+
+.cartbutt{
+  padding-right: 2rem;
+}
+
+.contact{
+  padding-left: 20rem;
+  padding-top: 2rem;
+}
+
+.contactbutt{
+  padding-left: 3rem;
+}
+
+.color-nav{
+  background-color: #a13838;
+  width: 100%;
+  overflow: auto;
+}
+
+.customes{
+  text-align: center;
+}
+
+.divider{
+  width:1000px;
+    height:auto;
+    display:inline-block;
+  }
+  
+.divrow1{
+  padding-left:   6.5rem;
+  padding-right: 7rem;
+  padding-bottom: 2rem;
+}
+.divrow2{
+  padding-right: 7rem;
+}
+.divrow3{
+  padding-right: 3.5rem;
+}
+
+.divscarf1{
+  padding-left: 8rem;
+  padding-bottom: 3rem;
+}
+
+.divscarf2{
+  padding-left: 7rem;
+}
+
+.divscarf3{
+  padding-left: 7rem;
+}
+
+.divscarf4{
+  padding-left: 8rem;
+  padding-bottom: 3rem;
+}
+
+.divscarf5{
+  padding-left: 7rem;
+}
+
+
+.divrow4{
+  padding-left: 5rem;
+  padding-top: 1rem;
+}
+
+.divrow5{
+  padding-left:   4rem;
+  padding-bottom: 2rem;
+  padding-top: 1rem;
+}
+
+.divrow6{
+  padding-left:   4rem;
+  padding-bottom: 2rem;
+  padding-top: 1rem;
+}
+
+.divrow7{
+  padding-left: 4rem;
+  padding-right: 2rem;
+  padding-bottom: 2rem;
+  padding-top: 1rem;
+
+}
+
+
+.framesize1{
+  width: 1000%;
+  height: 18%;
+
+}
+
+  .home{
+    text-align: center;
+    height: 10px;
+  }
+
+  .homeproducts{
+    padding-left: 13.5rem;
+  }
+
+  .homespace{
+   
+    padding-left: 27rem;
+  }
+
+  .innerspace{
+    padding-left: 33rem;
+    padding-right: 17.5rem;
+    padding-bottom: 0%;
+  }
+
+  .submit{
+    padding-left: 22rem;
+    padding-top: 2rem;
+  }
+
+  #nav {
+  list-style: none;
+  font-weight: bold;
+  margin-bottom: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #f7eedf;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.lineHorizontal {
+  border-top: 1px solid rgb(30, 30, 30);
+}
+
+.cara{
+  background-color: black;
+}
+
+
+.btn-mar{
+  background-color: maroon;
+}
+
+h1{
+  color: #4f3d16;
+}
+
+.knits{
+  padding-top: 1%;
+}
+
+.prodbutt{
+  padding-left: 2rem;  
+}
+
+.scarfqa{
+  padding-left: 5rem;
+}
+
+
+.products{
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+.face{
+  padding-right: .5rem;
+}
+
+.insta{
+  padding-right: .5rem;
+}
+
+h2{
+  text-align: center;
+}
+
+h1{
+  padding-top: 2rem;
+  text-align: center;
+}
